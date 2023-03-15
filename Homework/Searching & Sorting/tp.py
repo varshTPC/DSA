@@ -1,2 +1,6 @@
 print("hi")
 print("hellow")
+print("heya")
+print("hemloo")
+print("hehehe")
+print("hahaha")
